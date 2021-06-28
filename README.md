@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yuliya Paddubnik
-- 👀 I’m interested in Front-end Developing, UI/UX Designing
+- 👀 I’m interested in Front-end Developing
 - 🌱 I’m currently learning React/Redux
 - 📫 How to reach me https://www.linkedin.com/in/yuliya-paddubnik-a07950210/
 
